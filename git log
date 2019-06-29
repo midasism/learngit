@@ -1,0 +1,54 @@
+[33mcommit 3ad1358463cfc6cd4b4dad949c88a21a8236daee[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 96acb62 526af02
+Author: midas <1719671503@qq.com>
+Date:   Wed Jun 26 15:17:42 2019 +0800
+
+    conflict fixed
+
+[33mcommit 96acb62aa1198fe52348e173ebe2915209e3ff3f[m
+Author: midas <1719671503@qq.com>
+Date:   Wed Jun 26 15:14:15 2019 +0800
+
+    test new branch,too
+
+[33mcommit 526af025120ec1e34e3938f6fce7932a0353d42a[m[33m ([m[1;32mfeature1[m[33m)[m
+Author: midas <1719671503@qq.com>
+Date:   Wed Jun 26 15:11:33 2019 +0800
+
+    test new branch
+
+[33mcommit e4a6f015ed28b2830c65da0a131cb7618b05ed70[m
+Author: midas <1719671503@qq.com>
+Date:   Wed Jun 26 15:02:53 2019 +0800
+
+    branch test
+
+[33mcommit 1fb950cc977eec9dab723fe67709976936c523f4[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: midas <1719671503@qq.com>
+Date:   Wed Jun 26 14:30:43 2019 +0800
+
+    add a license.txt
+
+[33mcommit 40e82c86377c6133bd366bc0dfe650fd5886a0f4[m
+Author: midas <1719671503@qq.com>
+Date:   Wed Jun 26 14:12:35 2019 +0800
+
+    delete LICENSE.txt
+
+[33mcommit 8d39863614505a668cc02244694f0bfa315c326c[m
+Author: midas <1719671503@qq.com>
+Date:   Mon Jun 24 20:26:40 2019 +0800
+
+    say hello
+
+[33mcommit 73e739963489cd309dbbba5d1f9555a3b10ba203[m
+Author: midas <1719671503@qq.com>
+Date:   Mon Jun 24 19:16:47 2019 +0800
+
+    add a new file
+
+[33mcommit 66ae4109e95f69d53ba55a214620f87d5e2dc2fb[m
+Author: midas <1719671503@qq.com>
+Date:   Mon Jun 24 15:51:45 2019 +0800
+
+    wrote a readme file
